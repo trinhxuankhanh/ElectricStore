@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/accessDeniedView.jsp=UTF-8
+encoding//WebContent/info.jsp=UTF-8
+encoding//WebContent/managerTaskView.jsp=UTF-8
+encoding//WebContent/userInfoView.jsp=UTF-8
+encoding//src/com/tun/Filter/SecurityFilter.java=UTF-8
+encoding//src/com/tun/Servlet/LoginServlet.java=UTF-8
+encoding//src/com/tun/Utils/AppUtils.java=UTF-8
